@@ -1,0 +1,37 @@
+
+[index](https://github.com/daumkuchen/bookmarks/blob/master/README.md)
+
+## Japanese
+* https://wgld.org/
+* https://webgl.souhonzan.org/
+* http://kitasenjudesign.com/ kitasenju design
+* http://ikeryou.hatenablog.com/ ikeryou
+* http://www.tplh.net/ yoichi kobayashi
+* https://tkmh.me/ takumi hasegawa
+
+* http://taotajima.jp/ シェーダー + フロントエンド、SP最適化
+* http://republic.jpn.org/ メタボール系1
+* http://www.youmakeshibuya.jp/ メタボール2
+* http://su8erlemon.com/ シェーダーかっこいい
+* http://www.osawayudai.com/ グラフィック
+
+* https://qiita.com/aa_debdeb/items/b414746139f0c1972fe4 life game
+
+--
+
+## Others
+* https://thebookofshaders.com/?lan=jp book of shaders
+* http://iquilezles.org/www/articles/distfunctions/distfunctions.htm ray marching
+
+* http://mrdoob.com/ mr.doob
+* http://mercury.sexy/ デモシーン
+* http://david.li/ wasm
+* http://www.johnnyslack.co/ johnnyslack
+* http://jojo.ninja/ jojo
+* https://lusion.co/ 大量系
+* http://alteredqualia.com/ リアル系
+* https://bruno-simon.com/ ゴリゴリ系
+* https://marpi.pl/ 独特のキャラクター
+* https://viennesemodernism2018.info/en/ シェーダー
+* https://noni.cmiscm.com/ NONI NONI + ai
+* https://tonite.dance/ dance tonite + vr
