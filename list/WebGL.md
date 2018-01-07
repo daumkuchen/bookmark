@@ -36,3 +36,6 @@
 * https://viennesemodernism2018.info/en/ シェーダー
 * https://noni.cmiscm.com/ NONI NONI + ai
 * https://tonite.dance/ dance tonite + vr
+
+* https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 ノイズ各種
+* http://blog.teratail.com/entry/webaudio_threejs 簡易webAudio
