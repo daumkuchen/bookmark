@@ -38,4 +38,6 @@
 * https://tonite.dance/ dance tonite + vr
 
 * https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 ノイズ各種
-* http://blog.teratail.com/entry/webaudio_threejs 簡易webAudio
+
+* http://blog.teratail.com/entry/webaudio_threejs webAudio1
+* https://qiita.com/hp0me/items/377b95514f677e0ab90d webAudio2
