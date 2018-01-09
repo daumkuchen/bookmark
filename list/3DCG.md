@@ -6,4 +6,3 @@
 * http://okikata.org/ Akihiko Taniguchi
 
 ## Others
-* https://vnduongthanhtung.gitbooks.io/migrate-from-c-to-rust/content/ Rust

@@ -10,6 +10,8 @@
 
 * [3DCG](https://github.com/daumkuchen/bookmarks/blob/master/list/3DCG.md)
 
+* [Others](https://github.com/daumkuchen/bookmarks/blob/master/list/Others.md)
+
 <!-- --
 
 * [Frontend](https://github.com/daumkuchen/bookmarks/blob/master/list/Frontend.md)
