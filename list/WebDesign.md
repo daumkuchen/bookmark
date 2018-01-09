@@ -13,6 +13,8 @@
 --
 
 ## Others
+* http://watsondg.com/ Watson DG
+* https://www.behance.net/watsondg Watson DG
 * http://www.makemepulse.com/ makemepulse
 
 * https://adoratorio.studio/ 横スクロール
