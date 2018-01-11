@@ -9,6 +9,10 @@
 * http://www.tplh.net/ yoichi kobayashi
 * https://tkmh.me/ takumi hasegawa
 
+* http://www.daito.ws/ daito manabe
+* http://okikata.org/ Akihiko Taniguchi
+* http://baku89.com/ 橋本麦
+
 * http://taotajima.jp/ シェーダー + フロントエンド、SP最適化
 * http://republic.jpn.org/ メタボール系1
 * http://www.youmakeshibuya.jp/ メタボール2

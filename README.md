@@ -8,7 +8,7 @@
 
 <!-- * [Tidalcycles](https://github.com/daumkuchen/bookmarks/blob/master/list/Tidalcycles.md) -->
 
-* [3DCG](https://github.com/daumkuchen/bookmarks/blob/master/list/3DCG.md)
+<!-- * [3DCG](https://github.com/daumkuchen/bookmarks/blob/master/list/3DCG.md) -->
 
 * [Others](https://github.com/daumkuchen/bookmarks/blob/master/list/Others.md)
 
