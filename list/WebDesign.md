@@ -9,6 +9,7 @@
 * http://oniki-design-studio.com/ 2分割レイアウト
 * http://mikiyatakimoto.com/ MIKIYA TAKIMOTO
 * http://www.wed-camp.com/ instagram連携
+* http://bullyingandbehavior.com/ 横スクロール
 
 --
 
