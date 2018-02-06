@@ -44,6 +44,7 @@
 * https://tonite.dance/ dance tonite + vr
 * http://www.matter-of-mind.fr/en UI + メッシュ
 * http://zerostartingideas.com/en/ 乱数で波エフェクト
+* http://www.duhaihang.com/portfolio/2016/ font
 
 * https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 ノイズ各種
 
