@@ -1,19 +1,9 @@
 # bookmarks
 
-* [WebDesign](https://github.com/daumkuchen/bookmarks/blob/master/list/WebDesign.md)
+* [Creator](https://github.com/daumkuchen/bookmarks/blob/master/list/Creator.md)
 
-* [WebGL](https://github.com/daumkuchen/bookmarks/blob/master/list/WebGL.md)
+* [Product](https://github.com/daumkuchen/bookmarks/blob/master/list/Product.md)
 
-<!-- * [Processing](https://github.com/daumkuchen/bookmarks/blob/master/list/Processing.md) -->
-
-<!-- * [Tidalcycles](https://github.com/daumkuchen/bookmarks/blob/master/list/Tidalcycles.md) -->
-
-<!-- * [3DCG](https://github.com/daumkuchen/bookmarks/blob/master/list/3DCG.md) -->
+* [Gallery](https://github.com/daumkuchen/bookmarks/blob/master/list/Gallery.md)
 
 * [Others](https://github.com/daumkuchen/bookmarks/blob/master/list/Others.md)
-
-<!-- --
-
-* [Frontend](https://github.com/daumkuchen/bookmarks/blob/master/list/Frontend.md)
-
--->
