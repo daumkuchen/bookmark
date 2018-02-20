@@ -1,6 +1,7 @@
 
 [index](https://github.com/daumkuchen/bookmarks/blob/master/README.md)
 
+
 ## Japanese Creator
 * http://kitasenjudesign.com/ kitasenju design
 * http://ikeryou.hatenablog.com/ ikeryou
@@ -12,7 +13,9 @@
 * http://su8erlemon.com/ Keita Abe
 * http://www.osawayudai.com/ Osawa Yudai / Aroe inc.
 
+
 ***
+
 
 ## Other Creator
 * http://mrdoob.com/ mr.doob
@@ -25,16 +28,26 @@
 * https://bruno-simon.com/ Bruno Simon
 * https://marpi.pl/ Marpi［UniqueCharacter］
 
+
 ***
+
 
 ## Japanese Agency
 * http://www.thumb-m.com/main.html thumb m
+* https://garden-eight.com/ Garden Eight
+* http://homunculus.jp/ homunculus Inc.
+* http://baqemono.jp/ baqemono.inc.
+* http://wanna.tech/ WANNA
+* http://quoitworks.com/ QUOITWORKS INC.
 
 ***
+
 
 ## Other Agency
 * https://www.behance.net/watsondg Watson DG
 * http://www.makemepulse.com/ makemepulse
 * http://hellomonday.com/ Hello Monday
+* http://resn.co.nz/ Resn.
+
 
 ***
