@@ -12,7 +12,7 @@
 * http://su8erlemon.com/ Keita Abe
 * http://www.osawayudai.com/ Osawa Yudai / Aroe inc.
 
---
+***
 
 ## Other Creator
 * http://mrdoob.com/ mr.doob
@@ -25,16 +25,16 @@
 * https://bruno-simon.com/ Bruno Simon
 * https://marpi.pl/ Marpi［UniqueCharacter］
 
---
+***
 
 ## Japanese Agency
 * http://www.thumb-m.com/main.html thumb m
 
---
+***
 
 ## Other Agency
 * https://www.behance.net/watsondg Watson DG
 * http://www.makemepulse.com/ makemepulse
 * http://hellomonday.com/ Hello Monday
 
---
+***
