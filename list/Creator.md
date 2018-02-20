@@ -34,6 +34,7 @@
 * http://baqemono.jp/ baqemono.inc.
 * http://wanna.tech/ WANNA
 * http://quoitworks.com/ QUOITWORKS INC.
+* https://baigie.me/ baigie inc.
 
 ***
 
