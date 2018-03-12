@@ -27,5 +27,7 @@
 * https://folkstrategies.com/ Folk［Color］
 * http://north-east-venture.com/ North-East Venture［ScrollEffect］
 * https://varagon.com/ Varagon
+* https://varagon.com/ Varagon
+* http://twotwentytwo.se/ Twotwentytwo - Creative studio
 
 ***
