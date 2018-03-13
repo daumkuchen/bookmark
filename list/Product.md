@@ -29,5 +29,7 @@
 * https://varagon.com/ Varagon
 * https://varagon.com/ Varagon
 * http://twotwentytwo.se/ Twotwentytwo - Creative studio
+* https://ichikamistyling.jp/ いち髪 360° HAIR STUDIO｜クラシエ
+* https://retold.withyoutube.com/ The Greatest Stories Retold
 
 ***
