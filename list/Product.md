@@ -31,5 +31,8 @@
 * http://twotwentytwo.se/ Twotwentytwo - Creative studio
 * https://ichikamistyling.jp/ いち髪 360° HAIR STUDIO｜クラシエ
 * https://retold.withyoutube.com/ The Greatest Stories Retold
+* https://www.brontidebg.com/ Brontide
+* https://t.co/TiaBsQQNsw Mustafa Çelik
+* http://www.ronin161.com/ Ronin161 | D I G I T A L . G A N G
 
 ***

@@ -9,6 +9,7 @@
 ## Rust
 * https://imoz.jp/note/rust-functions.html Rust_011
 * https://vnduongthanhtung.gitbooks.io/migrate-from-c-to-rust/content/ Rust_012
+* http://blog.bokuweb.me/entry/2017/08/22/094112 Rust LifeGame
 
 ***
 
@@ -16,6 +17,12 @@
 * https://goodpatch.com/blog/react-study/ React勉強法
 
 ***
+
+## Demoscene
+* https://80.lv/articles/tutorial-ocean-shader-with-gerstner-waves/ waves
+* https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch01.html GPU Gems
+* https://speakerdeck.com/gam0022/motutoqi-li-dexie-shi-de-nahui-zuo-rigasitai-reimatinguxiang-kefalsesiedeinguji-shu Ray Marching Shading
+
 
 ## Memo
 * https://qiita.com/aa_debdeb/items/b414746139f0c1972fe4 life game

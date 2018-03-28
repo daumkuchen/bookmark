@@ -11,6 +11,8 @@
 * http://baku89.com/ 橋本麦
 * http://su8erlemon.com/ Keita Abe
 * http://www.osawayudai.com/ Osawa Yudai / Aroe inc.
+* http://alumican.net/ ALUMICAN.NET
+* http://shouwakiden.jp/ SHOUWAKIDEN
 
 ***
 
