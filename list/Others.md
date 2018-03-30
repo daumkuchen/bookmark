@@ -29,5 +29,7 @@
 * https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 Noise
 * http://blog.teratail.com/entry/webaudio_threejs webAudio_001
 * https://qiita.com/hp0me/items/377b95514f677e0ab90d webAudio_002
+* https://qiita.com/_nabe/items/1657d9556591284a43c8 webGL
+* https://qiita.com/edo_m18/items/71f6064f3355be7e4f45 webGL
 
 ***
