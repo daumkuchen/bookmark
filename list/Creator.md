@@ -13,6 +13,8 @@
 * http://www.osawayudai.com/ Osawa Yudai / Aroe inc.
 * http://alumican.net/ ALUMICAN.NET
 * http://shouwakiden.jp/ SHOUWAKIDEN
+* https://qanta.me/ Qanta Shimizu
+* http://www.keisuketerashima.com/ KEISUKETERASHIMA.COM - Top
 
 ***
 
