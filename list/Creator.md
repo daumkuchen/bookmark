@@ -15,6 +15,7 @@
 * http://shouwakiden.jp/ SHOUWAKIDEN
 * https://qanta.me/ Qanta Shimizu
 * http://www.keisuketerashima.com/ KEISUKETERASHIMA.COM - Top
+* http://wtshm.info/ Kenta Watashima
 
 ***
 
