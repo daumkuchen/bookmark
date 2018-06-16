@@ -34,5 +34,6 @@
 * https://www.brontidebg.com/ Brontide
 * https://t.co/TiaBsQQNsw Mustafa Çelik
 * http://www.ronin161.com/ Ronin161 | D I G I T A L . G A N G
-
+* http://www.billboard-japan.com/summersonic2018/ Billboard JAPAN x SUMMER SONIC 2018 ｌ Billboard JAPAN Stage
+* https://styleport.co.jp/
 ***
