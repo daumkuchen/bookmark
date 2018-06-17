@@ -16,6 +16,7 @@
 * https://qanta.me/ Qanta Shimizu
 * http://www.keisuketerashima.com/ KEISUKETERASHIMA.COM - Top
 * http://wtshm.info/ Kenta Watashima
+* http://kenji-special.info/ Kenji Saito
 
 ***
 
