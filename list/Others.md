@@ -31,5 +31,9 @@
 * https://qiita.com/hp0me/items/377b95514f677e0ab90d webAudio_002
 * https://qiita.com/_nabe/items/1657d9556591284a43c8 webGL
 * https://qiita.com/edo_m18/items/71f6064f3355be7e4f45 webGL
+* https://github.com/ashima/webgl-noise Noise
+* https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83 Noise
+* https://iquilezles.org/www/articles/distfunctions/distfunctions.htm distance function
+* http://blog.hvidtfeldts.net/index.php/2011/08/distance-estimated-3d-fractals-iii-folding-space/
 
 ***
